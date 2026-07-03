@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 <h2>🔬 Fields of Interest</h2>
 <ul style="margin-left: 20px; padding-left: 0; list-style-position: inside;">
-  <li>Computer Science</li>
-  <li>Theoretical Physics</li>
+   <li>Theoretical Physics</li>
+  <li>CS</li>
   <li>NQ/ES</li>
   
 </ul>
