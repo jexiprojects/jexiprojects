@@ -45,3 +45,9 @@ Here are some ideas to get you started:
 </div>
 
 ---
+## 📈 GitHub Stats
+
+<p align="center" style="padding-top: 20px; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jexipedia&show_icons=true&theme=dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jexipedia&layout=compact&theme=dark&hide_border=true" width="45%" />
+</p>
