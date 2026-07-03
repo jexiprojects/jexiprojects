@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **jexiprojects/jexiprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
+
+<h2>🛰 Tech Orbit</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,appwrite,supabase,tailwind,js,html,css,sqlite,python,vercel" />
+</p>
+
+</td>
+<td width="40%">
+
+<h2>🔬 Fields of Interest</h2>
+<ul style="margin-left: 20px; padding-left: 0; list-style-position: inside;">
+  <li>Computer Science</li>
+  <li>Theoretical Physics</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
